@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_cost,unit_price
+PROD0001,Front Out,books,185.44,342.2
+PROD0002,Almost Plant,Grocery,56.43,112.42
+PROD0003,Staff Husband,beauty,3.47,4.27
+PROD0004,Assume Would,home & kitchen,64.58,129.15
+PROD0005,System High,Toys & Games,102.14,196.98
+PROD0006,Strategy Law,Sports & Outdoors,62.75,98.27
+PROD0007,Material Different,Home & Kitchen,153.49,248.82
+PROD0008,Arm Development,Electronics,101.99,174.9
+PROD0009,Trip Agency,electronics,60.62,138.45
+PROD0010,Son Return,grocery,239.78,488.99
+PROD0011,Land Expect,Grocery,139.8,325.01
+PROD0012,Entire Prove,Books,244.81,589.04
+PROD0013,Control Because,electronics,91.91,196.91
+PROD0014,Change Authority,Books,8.56,16.7
+PROD0015,Eye Interview,books,266.74,442.7
+PROD0016,Beat Fire,Apparel,12.26,30.39
+PROD0017,Tv Seem,Apparel,118.7,234.28
+PROD0018,Live Try,beauty,96.41,119.66
+PROD0019,Kind Network,Toys & Games,263.48,443.45
+PROD0020,Difficult Relationship,Beauty,92.79,124.89
+PROD0021,Walk Event,electronics,274.27,487.35
+PROD0022,Create Then,electronics,271.77,380.56
+PROD0023,Arm Best,books,220.53,414.75
+PROD0024,Want Week,Books,261.92,594.24
+PROD0025,Later Guess,Apparel,13.86,23.62
+PROD0026,Some Finish,Home & Kitchen,279.9,585.88
+PROD0027,Community Decide,Home & Kitchen,267.09,356.31
+PROD0028,Happy Year,Beauty,228.27,463.5
+PROD0029,Kind Meet,Sports & Outdoors,60.19,93.87
+PROD0030,May North,books,202.32,314.5
+PROD0031,Risk Step,Apparel,7.53,15.13
+PROD0032,College Same,Home & Kitchen,107.04,172.77
+PROD0033,Leave Hear,apparel,241.79,470.6
+PROD0034,While Room,Apparel,185.14,303.7
+PROD0035,Own Improve,Grocery,11.61,27.57
+PROD0036,Test Action,Electronics,18.98,33.3
+PROD0037,Option Stay,apparel,267.71,540.32
+PROD0038,Wall Picture,Grocery,95.79,216.74
+PROD0039,Decide Bank,home & kitchen,227.46,410.66
+PROD0040,Several Region,Apparel,241.3,508.7
+PROD0041,Particular Practice,Home & Kitchen,206.29,438.01
+PROD0042,Check Game,Grocery,284.39,394.4
+PROD0043,Red Than,beauty,119.45,251.98
+PROD0044,Wrong Similar,books,265.07,474.28
+PROD0045,Situation That,Electronics,36.53,66.57
+PROD0046,Since Significant,Apparel,106.54,207.44
+PROD0047,Free Address,Home & Kitchen,215.14,288.09
+PROD0048,City Watch,home & kitchen,161.23,277.49
+PROD0049,Low World,Toys & Games,75.38,106.04
+PROD0050,Choose Money,Grocery,104.19,235.27
+PROD0051,Treatment Free,toys & games,132.3,294.17
+PROD0052,Build Structure,Sports & Outdoors,201.87,436.28
+PROD0053,Represent Investment,Grocery,180.03,292.19
+PROD0054,Everyone Near,home & kitchen,55.32,135.13
+PROD0055,Seven About,Home & Kitchen,206.6,408.1
+PROD0056,Little Yes,Toys & Games,194.56,249.02
+PROD0057,There Tough,sports & outdoors,266.52,632.78
+PROD0058,Car Protect,electronics,199.28,356.49
+PROD0059,Listen Purpose,Beauty,174.65,254.01
+PROD0060,Particular Bill,Books,238.92,497.77
+PROD0061,Although Discover,toys & games,274.79,683.51
+PROD0062,Skill Cup,Electronics,154.6,355.88
+PROD0063,Kitchen Same,Beauty,270.62,665.26
+PROD0064,Office Staff,electronics,246.76,411.35
+PROD0065,Compare Plant,beauty,72.87,153.97
+PROD0066,Huge Direction,Toys & Games,214.4,370.45
+PROD0067,Happen Determine,Toys & Games,199.76,363.03
+PROD0068,Cut Respond,Sports & Outdoors,253.47,422.88
+PROD0069,Part Address,Toys & Games,299.24,619.75
+PROD0070,Hospital Teach,Apparel,195.57,271.29
+PROD0071,Himself Admit,Grocery,292.57,402.73
+PROD0072,Five Watch,Apparel,126.51,226.81
+PROD0073,Food Morning,Toys & Games,137.96,241.62
+PROD0074,Tell Trip,Grocery,70.05,122.74
+PROD0075,Capital Scene,Electronics,254.5,383.73
+PROD0076,Money Range,Beauty,165.21,277.07
+PROD0077,Lose Job,Electronics,212.35,286.06
+PROD0078,Item He,grocery,26.78,57.56
+PROD0079,He Them,Beauty,26.24,61.84
+PROD0080,Occur Last,Home & Kitchen,190.31,392.58
+PROD0081,Necessary Southern,Home & Kitchen,163.14,318.7
+PROD0082,Government Build,electronics,161.9,196.55
+PROD0083,With Control,Grocery,142.36,306.64
+PROD0084,Low Later,Toys & Games,293.39,464.44
+PROD0085,Hour Cost,Apparel,277.09,602.46
+PROD0086,On Physical,Beauty,143.53,203.78
+PROD0087,Commercial Occur,Electronics,89.65,193.52
+PROD0088,Least I,Electronics,27.51,51.09
+PROD0089,Feel Through,Beauty,185.89,289.58
+PROD0090,Receive Risk,Beauty,36.13,51.56
+PROD0091,Response Leave,Apparel,112.82,161.11
+PROD0092,Protect Federal,Sports & Outdoors,240.41,557.9
+PROD0093,Science Pressure,books,290.3,573.11
+PROD0094,Writer Wish,apparel,226.57,393.51
+PROD0095,Western Tough,Toys & Games,133.73,271.32
+PROD0096,Bit Begin,Sports & Outdoors,253.02,321.49
+PROD0097,Sure Third,beauty,37.45,53.1
+PROD0098,Body Behind,Toys & Games,144.45,351.41
+PROD0099,Rate Admit,Sports & Outdoors,212.57,386.23
+PROD0100,Practice Work,Apparel,132.12,208.15
+PROD0101,Its Body,Grocery,96.76,182.81
+PROD0102,Model So,Electronics,160.79,266.91
+PROD0103,Society Price,Toys & Games,196.66,305.68
+PROD0104,Within Off,Beauty,32.19,66.01
+PROD0105,Black Property,Toys & Games,203.56,308.26
+PROD0106,Life Most,Sports & Outdoors,204.28,508.9
+PROD0107,Party Sure,Books,202.82,462.67
+PROD0108,Alone Region,Electronics,159.0,332.49
+PROD0109,Figure Together,Books,87.14,126.44
+PROD0110,Kitchen Development,Electronics,19.89,39.23
+PROD0111,Dog Standard,sports & outdoors,192.51,408.22
+PROD0112,Look Ok,Home & Kitchen,182.59,308.35
+PROD0113,I Building,apparel,209.61,320.56
+PROD0114,Deal Total,Grocery,25.49,45.61
+PROD0115,Manager Capital,beauty,208.59,431.33
+PROD0116,Have Student,Books,234.88,366.52
+PROD0117,White Majority,Electronics,101.8,130.11
+PROD0118,Itself Whatever,Beauty,23.61,58.39
+PROD0119,Tend Quite,Sports & Outdoors,56.0,103.02
+PROD0120,Score Still,Apparel,131.08,261.92
+PROD0121,Sit Individual,home & kitchen,215.47,287.5
+PROD0122,Account Yard,Home & Kitchen,219.08,484.26
+PROD0123,House Station,electronics,47.21,95.95
+PROD0124,Door Movement,Electronics,82.13,173.3
+PROD0125,Federal Executive,Toys & Games,156.07,377.98
+PROD0126,Until Reason,Grocery,122.96,263.88
+PROD0127,Everything Food,Home & Kitchen,3.98,9.71
+PROD0128,This Weight,Grocery,161.99,403.21
+PROD0129,Stuff Where,Books,121.98,246.64
+PROD0130,Join Report,Home & Kitchen,256.44,421.1
+PROD0131,Effort Above,grocery,89.12,130.48
+PROD0132,We When,electronics,199.24,316.5
+PROD0133,Join Alone,toys & games,190.29,317.22
+PROD0134,Administration Agree,home & kitchen,133.08,192.47
+PROD0135,Class Street,Electronics,216.76,427.2
+PROD0136,House Though,Grocery,238.44,485.57
+PROD0137,Technology Natural,Grocery,250.77,447.4
+PROD0138,Ten Site,Electronics,19.65,43.7
+PROD0139,Plan Friend,Electronics,65.87,135.03
+PROD0140,Government Conference,grocery,261.45,496.11
+PROD0141,Owner Law,sports & outdoors,13.95,19.31
+PROD0142,Effort Only,Electronics,275.65,347.19
+PROD0143,Include Data,Apparel,190.9,453.59
+PROD0144,Practice Quickly,Home & Kitchen,53.69,105.68
+PROD0145,Increase Them,Home & Kitchen,179.71,359.48
+PROD0146,Approach Suddenly,home & kitchen,129.58,292.2
+PROD0147,Work Participant,Toys & Games,292.83,570.65
+PROD0148,Laugh Career,Apparel,289.51,427.66
+PROD0149,Wrong Provide,Electronics,102.64,139.28
+PROD0150,In Should,apparel,52.91,88.94
